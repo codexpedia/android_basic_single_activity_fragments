@@ -1,7 +1,3 @@
-Original source
-=================================
-https://github.com/google-developer-training/android-basics-kotlin-cupcake-app
-
 Cupcake app
 =================================
 
@@ -33,5 +29,12 @@ Screens
 -------
 <img src="https://github.com/codexpedia/android_basic_single_activity_fragments/blob/main/captures/a.png" width="250" height="420" /> <img src="https://github.com/codexpedia/android_basic_single_activity_fragments/blob/main/captures/b.png" width="250" height="420" /> <img src="https://github.com/codexpedia/android_basic_single_activity_fragments/blob/main/captures/c.png" width="250" height="420" /> <img src="https://github.com/codexpedia/android_basic_single_activity_fragments/blob/main/captures/d.png" width="250" height="420" />
 
+Post
+-----
+https://www.codexpedia.com/android/android-single-activity-with-multiple-fragment-architecture/
+
+Original source
+----------------
+https://github.com/google-developer-training/android-basics-kotlin-cupcake-app
 
 
