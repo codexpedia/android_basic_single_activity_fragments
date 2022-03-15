@@ -1,3 +1,7 @@
+Original source
+=================================
+https://github.com/google-developer-training/android-basics-kotlin-cupcake-app
+
 Cupcake app
 =================================
 
@@ -24,3 +28,10 @@ Getting Started
 2. Download the sample.
 3. Import the sample into Android Studio.
 4. Build and run the sample.
+
+Screens
+-------
+<img src="https://github.com/codexpedia/android_basic_single_activity_fragments/blob/main/captures/a.png" width="250" height="420" /> <img src="https://github.com/codexpedia/android_basic_single_activity_fragments/blob/main/captures/b.png" width="250" height="420" /> <img src="https://github.com/codexpedia/android_basic_single_activity_fragments/blob/main/captures/c.png" width="250" height="420" /> <img src="https://github.com/codexpedia/android_basic_single_activity_fragments/blob/main/captures/d.png" width="250" height="420" />
+
+
+
